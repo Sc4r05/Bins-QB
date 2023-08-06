@@ -1,1 +1,1 @@
-# Thedoc_Bins-QBCore-
+# Bins - QBCore
